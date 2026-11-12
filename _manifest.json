@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "id": "github.Sensrey.yituosi-family",
+  "version": "1.1.0",
+  "name": "异托思的家人插件",
+  "description": "给每个人设定专属关系（爸爸、妈妈、哥哥、闺蜜……）和相处方式，让她认得家人、用对态度。基于「身份认知」插件扩展，QQ 号只用于内部识别，永不进入提示词。",
+  "author": {
+    "name": "异托思 (Sensrey)",
+    "url": "https://github.com/Sensrey"
+  },
+  "license": "MIT",
+  "urls": {
+    "repository": "https://github.com/Sensrey/yituosi-family-plugin",
+    "homepage": "https://github.com/Sensrey/yituosi-family-plugin",
+    "documentation": "https://github.com/Sensrey/yituosi-family-plugin/blob/main/README.md",
+    "issues": "https://github.com/Sensrey/yituosi-family-plugin/issues"
+  },
+  "plugin_type": "chat",
+  "host_application": {
+    "min_version": "1.3.4",
+    "max_version": "1.3.99"
+  },
+  "sdk": {
+    "min_version": "2.9.0",
+    "max_version": "2.9.99"
+  },
+  "dependencies": [],
+  "capabilities": [],
+  "i18n": {
+    "default_locale": "zh-CN",
+    "supported_locales": [
+      "zh-CN"
+    ]
+  }
+}
